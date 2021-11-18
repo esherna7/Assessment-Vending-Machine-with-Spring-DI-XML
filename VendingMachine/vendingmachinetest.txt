@@ -1,0 +1,2 @@
+Almonds::2.00::-7
+Snickers::2.00::4
